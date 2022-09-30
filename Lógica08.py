@@ -5,4 +5,4 @@ gols2 = (input("Digite o número de gols do segundo time: "))
 
 
 
-print("\nO placar do jogo é: ", time, gols1," X ",gols2, time2)
+print("\nO placar atual do jogo é: ", time, gols1," X ",gols2, time2)
