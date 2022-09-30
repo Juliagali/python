@@ -12,4 +12,4 @@ else:
     
 
 
-print("O menor número é", resultado)
+print("O menor número é: ", resultado)
