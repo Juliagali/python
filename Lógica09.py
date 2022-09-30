@@ -11,4 +11,4 @@ if gols1 > gols2:
 if gols1 < gols2:
     print("O time {} é o vencedor" .format(time2))
     else:
-         print("Empate")
+         print("Empate!!")
